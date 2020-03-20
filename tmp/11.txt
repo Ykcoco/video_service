@@ -1,0 +1,4 @@
+net start MySQL80
+
+
+D:\Program Files\MySQL\MySQL Server 8.0\bin>
